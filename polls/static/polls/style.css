@@ -3,5 +3,9 @@ li a {
 }
 
 body {
-    background: white url("images/background-3.jpg") no-repeat right bottom;
+    background: #f6eabe;
+}
+
+#sidebar {
+	float:right;
 }
